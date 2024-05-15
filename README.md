@@ -1,0 +1,2 @@
+# ForestFirePrediction-
+## REACT JS + ML MODEL LINK USING FLASK (PRACTICE PROJ)
